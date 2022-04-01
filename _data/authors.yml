@@ -122,3 +122,11 @@ nash:
     twitter: cushyChicken
     linkedin: https://www.linkedin.com/in/nash-reilly-55284a33/
     image: /img/author/nash.png
+djasinski:
+    name:  Daniel Jasinski
+    email: jasinskidaniel95szcz@gmail.com
+    web: https://www.jasinsky.me
+    blurb: is a Senior Software Engineer for Embedded Systems with experience in the medical, maritime and automotive industries. Currently, he is consulting a company dealing with medical devices.
+    linkedin: https://www.linkedin.com/in/danieljasinski1/
+    github: jasinsky
+    image: /img/author/djasinski.jpg
